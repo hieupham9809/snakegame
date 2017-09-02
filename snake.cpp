@@ -174,4 +174,4 @@ void snake::timerEvent(QTimerEvent *e){
             draw();
             repaint();
 }
-void snake::endv();
+void snake::endvg();
